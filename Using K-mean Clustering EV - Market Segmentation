@@ -1,0 +1,140 @@
+# Import necessary libraries
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.preprocessing import StandardScaler
+from sklearn.cluster import KMeans
+from mpl_toolkits.mplot3d import Axes3D
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Load the dataset
+ev_data = pd.read_csv('/content/Extended_EV_Cars_Data.csv')
+display(ev_data)
+
+# Select the features for clustering
+features = ['PriceINR', 'Range_Km', 'Efficiency_WhKm', 'Charging_Stations',
+            'EV_Market_Share_Percent', 'Average_Daily_Travel_Km', 'Avg_Frequency_of_Charging_Per_Week']
+
+# Data Preprocessing
+scaler = StandardScaler()
+scaled_features = scaler.fit_transform(ev_data[features])
+
+# Determine the optimal number of clusters using the Elbow Method
+sse = []
+for k in range(1, 11):
+    kmeans = KMeans(n_clusters=k, random_state=42)
+    kmeans.fit(scaled_features)
+    sse.append(kmeans.inertia_)
+
+# Plot the Elbow Method
+plt.figure(figsize=(6, 4))
+plt.plot(range(1, 11), sse, marker='o')
+plt.title('Elbow Method for Optimal Clusters')
+plt.xlabel('Number of clusters')
+plt.ylabel('SSE (Sum of squared errors)')
+plt.grid(True)
+plt.show()
+
+# Apply K-Means clustering with the chosen number of clusters
+optimal_clusters = 4
+kmeans = KMeans(n_clusters=optimal_clusters, random_state=42)
+ev_data['Cluster'] = kmeans.fit_predict(scaled_features)
+
+# 1. Scatter Plot (Price vs Range by Cluster)
+plt.figure(figsize=(10, 6))
+sns.scatterplot(x='PriceINR', y='Range_Km', hue='Cluster', data=ev_data, palette='viridis')
+plt.title('Scatter Plot of Price vs Range by Cluster')
+plt.xlabel('Price (INR)')
+plt.ylabel('Range (Km)')
+plt.grid(True)
+plt.show()
+
+# 2. Bar Plot (Number of EVs by Body Style)
+plt.figure(figsize=(10, 6))
+sns.countplot(x='BodyStyle', data=ev_data, palette='coolwarm')
+plt.title('Number of EVs by Body Style')
+plt.xlabel('Body Style')
+plt.ylabel('Count')
+plt.grid(True)
+plt.show()
+
+# 3. Box Plot (Price Distribution by Body Style)
+plt.figure(figsize=(10, 6))
+sns.boxplot(x='BodyStyle', y='PriceINR', data=ev_data, palette='Set3')
+plt.title('Price Distribution by Body Style')
+plt.xlabel('Body Style')
+plt.ylabel('Price (INR)')
+plt.grid(True)
+plt.show()
+
+# 4. Heatmap (Correlation between Features)
+plt.figure(figsize=(10, 6))
+correlation_matrix = ev_data[features].corr()
+sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', linewidths=0.5)
+plt.title('Correlation Heatmap between Features')
+plt.show()
+
+# 5. Cluster Count Plot
+plt.figure(figsize=(10, 6))
+sns.countplot(x='Cluster', data=ev_data, palette='muted')
+plt.title('Number of Vehicles in Each Cluster')
+plt.xlabel('Cluster')
+plt.ylabel('Count')
+plt.grid(True)
+plt.show()
+
+# 6. Box Plot (Range Distribution by Cluster)
+plt.figure(figsize=(10, 6))
+sns.boxplot(x='Cluster', y='Range_Km', data=ev_data, palette='Set2')
+plt.title('Range Distribution by Cluster')
+plt.xlabel('Cluster')
+plt.ylabel('Range (Km)')
+plt.grid(True)
+plt.show()
+
+
+# Create a 3D plot for clustering based on Price, Range, and Efficiency
+fig = plt.figure(figsize=(10, 8))
+ax = fig.add_subplot(111, projection='3d')
+# Plotting the clusters with Price, Range, and Efficiency
+scatter = ax.scatter(ev_data['PriceINR'], ev_data['Range_Km'], ev_data['Efficiency_WhKm'],
+                     c=ev_data['Cluster'], cmap='viridis', s=50)
+# Adding labels and title
+ax.set_xlabel('Price (INR)')
+ax.set_ylabel('Range (Km)')
+ax.set_zlabel('Efficiency (Wh/Km)')
+ax.set_title('3D Plot of Clusters by Price, Range, and Efficiency')
+# Add a color bar to indicate clusters
+plt.colorbar(scatter)
+plt.show()
+
+# Analyze the clusters by calculating the mean of key metrics for each cluster
+cluster_means = ev_data.groupby('Cluster')[['PriceINR', 'Range_Km', 'Efficiency_WhKm']].mean()
+print("Cluster-wise Averages:\n", cluster_means)
+
+# Set relaxed criteria for finding the best cluster
+# Example: Looking for clusters with a range above the average and a reasonable efficiency
+avg_price = cluster_means['PriceINR'].mean()
+avg_range = cluster_means['Range_Km'].mean()
+avg_efficiency = cluster_means['Efficiency_WhKm'].mean()
+
+# Modify the criteria to check if any cluster meets one or more conditions
+best_cluster = cluster_means[(cluster_means['Range_Km'] > avg_range) &
+                             (cluster_means['Efficiency_WhKm'] < avg_efficiency)]
+
+print("\nBest Cluster Characteristics:\n", best_cluster)
+
+# Check if best_cluster is empty before filtering vehicles
+if not best_cluster.empty:
+    # Filter the dataset to show vehicles in the best cluster
+    best_vehicle_index = best_cluster.index[0]  # Get the first index of the best cluster
+    best_vehicles = ev_data[ev_data['Cluster'] == best_vehicle_index]
+    print("\nRecommended Vehicles for Purchase:\n", best_vehicles[['Brand', 'Model', 'PriceINR', 'Range_Km', 'Efficiency_WhKm']])
+
+    # Conclusion based on the analysis
+    print("\nBased on the clustering analysis, the vehicles in the following cluster provide the best balance between price, range, and efficiency.")
+    print("These vehicles are recommended for purchase.")
+else:
+    print("\nNo optimal cluster found based on the relaxed criteria. Consider adjusting the criteria further.")
+
