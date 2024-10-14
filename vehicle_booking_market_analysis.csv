@@ -1,0 +1,501 @@
+﻿City,Population_Tier,Vehicle_Type,Avg_Fare,Daily_Rides,Commuter_Type,Income_Level,Tourism_Factor,Corporate_Clients,EV_Infrastructure,Competitor_Presence,Safety_Index,Tech_Literacy,Local_Regulations,Market_Potential_Score
+Kolkata,Tier 3,Auto-Rickshaw,296.2385069,1649,Locals,Middle,High,TRUE,Developing,High,8.798186108,High,Favorable,23.56445122
+Jaipur,Tier 2,Luxury Vehicle,372.7580284,1436,Business Travelers,Middle,Medium,TRUE,Good,Medium,9.576660518,High,Favorable,42.28881509
+Delhi,Tier 1,Luxury Vehicle,386.4741421,2502,Business Travelers,Middle,High,FALSE,Good,Low,3.268729649,Medium,Favorable,45.40733728
+Mumbai,Tier 3,Auto-Rickshaw,460.5876002,1974,Business Travelers,Middle,High,FALSE,Poor,Medium,3.358073146,High,Unfavorable,22.04068268
+Goa,Tier 3,Car,165.9764638,3338,Locals,High,High,TRUE,Developing,High,8.870875078,Medium,Neutral,59.41989857
+Lucknow,Tier 2,EV Car,463.0651848,578,Locals,Middle,High,FALSE,Developing,High,5.545145679,High,Neutral,32.15246472
+Mumbai,Tier 3,Auto-Rickshaw,337.5095158,3937,Locals,Middle,High,TRUE,Developing,Medium,1.04202967,High,Neutral,81.6243144
+Bangalore,Tier 2,Auto-Rickshaw,483.9015145,861,Locals,High,High,TRUE,Developing,High,8.662757318,Low,Favorable,77.95891267
+Kolkata,Tier 3,Luxury Vehicle,295.1585708,2675,Tourists,Low,Medium,TRUE,Developing,Low,5.822382067,Low,Unfavorable,4.490233717
+Kolkata,Tier 1,Bike Taxi,483.2841249,451,Tourists,Low,Medium,FALSE,Poor,Low,5.680069139,Low,Neutral,25.03563898
+Kolkata,Tier 2,Car,372.4941763,4957,Locals,High,Medium,TRUE,Poor,Medium,1.095721701,Low,Unfavorable,72.57282354
+Delhi,Tier 1,Bike Taxi,147.706442,347,Locals,High,Low,FALSE,Good,Medium,7.012221061,Medium,Unfavorable,47.58456483
+Lucknow,Tier 1,Bike Taxi,480.1737364,3122,Students,Middle,High,FALSE,Developing,High,7.185811127,High,Neutral,86.96998997
+Lucknow,Tier 2,Auto-Rickshaw,253.7279064,2919,Tourists,Middle,Medium,FALSE,Poor,Low,1.640068555,Medium,Favorable,91.52335764
+Pune,Tier 3,Luxury Vehicle,487.2992521,3483,Tourists,High,Low,FALSE,Developing,High,1.96996699,Medium,Neutral,4.819151278
+Goa,Tier 3,Auto-Rickshaw,261.4782454,4908,Business Travelers,High,High,TRUE,Poor,Medium,5.561105879,Medium,Unfavorable,8.593335
+Goa,Tier 3,Bike Taxi,475.5856884,2282,Locals,High,High,TRUE,Developing,Low,8.62012716,Low,Neutral,4.903891823
+Mumbai,Tier 1,Luxury Vehicle,66.4570114,1045,Tourists,Middle,High,FALSE,Good,Low,3.728813576,High,Favorable,11.65182159
+Lucknow,Tier 3,Car,77.45167704,2329,Locals,High,Medium,FALSE,Poor,Low,4.445918913,High,Favorable,4.456706801
+Pune,Tier 1,Bike Taxi,481.330017,1084,Students,High,Low,FALSE,Poor,Low,1.756738539,High,Neutral,8.947007184
+Mumbai,Tier 1,Bike Taxi,93.16756467,430,Students,High,High,TRUE,Good,High,1.973533715,Low,Neutral,81.19450506
+Chennai,Tier 3,Car,259.8734754,3497,Tourists,Low,High,FALSE,Developing,Medium,8.615036026,High,Neutral,38.12629217
+Pune,Tier 3,Car,412.213706,2038,Tourists,High,Low,FALSE,Good,Medium,3.945755091,High,Unfavorable,55.66078774
+Chennai,Tier 3,EV Car,112.1474587,2406,Students,High,Medium,FALSE,Good,Medium,2.541967867,Low,Neutral,86.28688792
+Chennai,Tier 1,Car,465.2962523,904,Business Travelers,High,Medium,FALSE,Developing,Medium,3.919315756,Medium,Unfavorable,22.6725448
+Bangalore,Tier 3,Auto-Rickshaw,280.2607111,3139,Business Travelers,Middle,High,FALSE,Poor,Medium,4.442481266,High,Favorable,26.44623491
+Pune,Tier 2,Car,479.4984094,526,Tourists,Low,High,TRUE,Poor,High,5.300709172,Low,Unfavorable,83.97766678
+Kolkata,Tier 1,Bike Taxi,415.2471717,2434,Tourists,Middle,Low,FALSE,Developing,High,7.783529881,High,Favorable,4.310817278
+Hyderabad,Tier 2,Luxury Vehicle,485.127087,4948,Locals,Low,Medium,FALSE,Developing,High,1.414297148,High,Favorable,10.08440808
+Hyderabad,Tier 1,Bike Taxi,392.3178042,324,Tourists,Low,High,TRUE,Good,High,8.239155955,Low,Unfavorable,47.62171686
+Delhi,Tier 2,Car,82.07358591,3983,Business Travelers,Middle,Medium,TRUE,Poor,Low,2.565582249,Low,Unfavorable,29.24445942
+Mumbai,Tier 3,Bike Taxi,408.7297303,485,Business Travelers,Middle,Low,FALSE,Good,Low,9.7485892,High,Favorable,90.52533619
+Mumbai,Tier 3,EV Car,125.9986572,3622,Tourists,Low,Low,FALSE,Poor,Medium,8.441203049,High,Neutral,13.64170961
+Kolkata,Tier 2,EV Car,458.5958251,1158,Locals,Low,Low,TRUE,Poor,Low,2.421851748,High,Unfavorable,31.82800267
+Chennai,Tier 1,Car,248.6633564,381,Students,Low,Medium,FALSE,Poor,High,5.667244739,Low,Unfavorable,13.16470647
+Mumbai,Tier 1,Auto-Rickshaw,116.5625085,2350,Tourists,Low,Low,TRUE,Good,Medium,8.382830588,High,Favorable,8.695817816
+Delhi,Tier 3,Car,247.1427244,3255,Locals,High,High,FALSE,Good,Medium,4.536873701,High,Unfavorable,93.5477322
+Lucknow,Tier 3,Bike Taxi,295.7963979,2736,Locals,Middle,Medium,TRUE,Developing,Low,3.703818655,Low,Unfavorable,34.89322735
+Mumbai,Tier 1,Car,269.600652,1658,Students,High,Low,FALSE,Good,Low,9.569622101,Low,Neutral,51.15730615
+Delhi,Tier 1,EV Car,108.94473,2841,Business Travelers,Middle,High,TRUE,Good,Low,2.823550243,High,Neutral,88.42020314
+Chennai,Tier 3,EV Car,176.7802606,1876,Locals,Middle,High,TRUE,Developing,Low,8.451041456,Medium,Favorable,16.83814318
+Pune,Tier 3,Auto-Rickshaw,143.4323121,1290,Tourists,Low,Low,FALSE,Good,Low,8.194020227,Medium,Neutral,61.7394129
+Pune,Tier 2,Bike Taxi,210.8404743,4152,Locals,High,Medium,TRUE,Developing,Low,1.179467429,Medium,Neutral,91.54321053
+Mumbai,Tier 3,Auto-Rickshaw,282.2021515,3383,Business Travelers,Low,Low,FALSE,Good,Low,2.749560198,High,Favorable,97.2373936
+Jaipur,Tier 2,Auto-Rickshaw,319.4468861,3967,Locals,Middle,High,FALSE,Developing,Medium,7.990711317,High,Unfavorable,50.86363208
+Lucknow,Tier 3,Auto-Rickshaw,280.301312,2916,Students,Low,High,FALSE,Good,Medium,6.812196424,Low,Unfavorable,59.99556331
+Chennai,Tier 3,Car,259.7267438,2862,Business Travelers,Middle,Medium,TRUE,Developing,Low,8.926326807,Low,Neutral,96.45208843
+Delhi,Tier 3,Car,361.9550954,3769,Tourists,High,High,TRUE,Poor,Low,3.443642141,Low,Unfavorable,5.160509449
+Kolkata,Tier 2,Car,435.4442705,2920,Students,Middle,High,FALSE,Developing,Medium,1.549279276,Medium,Unfavorable,13.32623678
+Hyderabad,Tier 3,Bike Taxi,185.6025561,3572,Business Travelers,High,Low,FALSE,Poor,High,9.114528026,Low,Unfavorable,1.004518257
+Mumbai,Tier 3,Luxury Vehicle,111.9499344,3396,Business Travelers,High,Medium,TRUE,Poor,High,5.702253868,Medium,Neutral,44.02983162
+Delhi,Tier 2,Car,437.5667145,1356,Tourists,High,High,FALSE,Developing,Low,5.425545857,Medium,Favorable,48.99762334
+Chennai,Tier 2,Bike Taxi,444.1860732,4859,Locals,High,Low,TRUE,Developing,High,4.789010121,Medium,Neutral,34.37301477
+Delhi,Tier 3,Luxury Vehicle,479.6534097,1461,Students,Low,Medium,TRUE,Good,High,7.187674145,Low,Unfavorable,20.48913305
+Jaipur,Tier 2,Bike Taxi,257.3897809,1513,Business Travelers,Middle,Low,FALSE,Poor,Medium,9.668528606,Low,Unfavorable,95.75130862
+Delhi,Tier 3,EV Car,333.7852746,4485,Students,Low,Medium,TRUE,Poor,High,6.566942244,Low,Neutral,32.04470435
+Mumbai,Tier 2,Bike Taxi,302.7675261,4147,Business Travelers,Low,Low,TRUE,Developing,Medium,1.352518209,Low,Neutral,30.43934602
+Bangalore,Tier 1,Car,268.903631,2877,Tourists,Middle,Medium,FALSE,Poor,Low,1.267932041,Low,Unfavorable,77.89981762
+Jaipur,Tier 2,EV Car,157.0227802,4522,Tourists,Low,Low,TRUE,Developing,Medium,8.071468941,Low,Unfavorable,17.92795183
+Delhi,Tier 2,Bike Taxi,353.8234724,4037,Locals,Middle,Medium,TRUE,Developing,Medium,6.910101959,Low,Neutral,12.30689716
+Delhi,Tier 3,EV Car,393.0795249,179,Business Travelers,Low,High,FALSE,Good,High,2.013934325,Low,Unfavorable,8.79201007
+Bangalore,Tier 2,Luxury Vehicle,498.1314551,1241,Tourists,High,Low,TRUE,Developing,High,6.707883119,High,Favorable,83.70711398
+Chennai,Tier 2,Bike Taxi,388.0402613,1896,Students,Middle,High,FALSE,Poor,Medium,5.098828444,Medium,Unfavorable,67.84642039
+Pune,Tier 1,Car,154.6909309,3880,Tourists,High,Medium,TRUE,Good,High,2.932769112,High,Favorable,43.25069502
+Hyderabad,Tier 3,Car,197.200136,740,Business Travelers,Low,Medium,TRUE,Good,Medium,6.298807097,High,Favorable,88.69844862
+Chennai,Tier 1,EV Car,468.3460504,2848,Locals,High,High,FALSE,Developing,Low,7.246654076,Low,Unfavorable,51.44863026
+Chennai,Tier 1,Auto-Rickshaw,129.4094698,2606,Students,Low,Medium,TRUE,Good,Medium,2.700286619,High,Neutral,73.14677692
+Chennai,Tier 3,EV Car,450.8180137,2151,Tourists,Middle,Low,FALSE,Poor,Medium,1.571885218,Low,Favorable,76.2618507
+Kolkata,Tier 3,Car,115.2711664,3511,Students,Low,Low,FALSE,Poor,High,8.447344314,High,Unfavorable,71.95634652
+Mumbai,Tier 3,EV Car,295.9014141,648,Business Travelers,High,Medium,TRUE,Poor,Low,7.830392974,High,Favorable,41.58967194
+Lucknow,Tier 1,Auto-Rickshaw,392.2640464,4835,Tourists,High,High,FALSE,Developing,Medium,1.977164343,Medium,Unfavorable,89.54748499
+Pune,Tier 1,Car,407.3312411,1972,Locals,Low,High,FALSE,Developing,Medium,5.631614441,High,Favorable,23.91772588
+Goa,Tier 1,Luxury Vehicle,470.951069,2259,Tourists,Middle,Low,TRUE,Good,Medium,2.948587803,Medium,Unfavorable,57.10367581
+Chennai,Tier 1,Auto-Rickshaw,71.84866456,1240,Tourists,Low,High,TRUE,Good,Low,4.155482005,Low,Favorable,45.69621236
+Lucknow,Tier 1,Auto-Rickshaw,310.4950998,223,Business Travelers,Middle,Low,FALSE,Poor,Low,5.918742908,High,Favorable,53.56317941
+Lucknow,Tier 2,EV Car,382.9479655,1732,Business Travelers,Low,High,TRUE,Poor,Low,6.637026048,Low,Neutral,4.734218812
+Goa,Tier 3,Car,171.1871217,4679,Locals,Low,High,TRUE,Poor,Medium,6.350864064,Medium,Neutral,67.6002991
+Kolkata,Tier 2,EV Car,433.7415884,2574,Locals,High,High,TRUE,Developing,Medium,9.987010022,Medium,Favorable,33.92532466
+Bangalore,Tier 2,EV Car,278.1483747,3040,Locals,Middle,High,TRUE,Developing,High,2.305194108,Medium,Unfavorable,84.7017662
+Delhi,Tier 1,Car,278.1661169,1974,Tourists,Middle,High,TRUE,Good,High,9.134254126,High,Neutral,11.62482814
+Delhi,Tier 2,Car,396.9735554,1807,Tourists,Low,Low,FALSE,Developing,Medium,4.095136646,Low,Unfavorable,20.32257046
+Lucknow,Tier 3,Luxury Vehicle,327.1939267,4588,Tourists,Middle,High,TRUE,Poor,Medium,9.866801682,High,Favorable,21.80008424
+Chennai,Tier 1,Luxury Vehicle,495.7273021,3985,Business Travelers,Low,Low,FALSE,Developing,Low,2.969483224,High,Neutral,81.35879214
+Chennai,Tier 2,Car,305.306009,1107,Business Travelers,Low,Medium,TRUE,Good,Low,4.278575709,Low,Neutral,35.41463282
+Hyderabad,Tier 1,Bike Taxi,473.3247657,3962,Tourists,High,Low,TRUE,Good,High,5.356594453,Medium,Neutral,33.35703872
+Delhi,Tier 2,Luxury Vehicle,396.9523701,1627,Business Travelers,Low,Medium,TRUE,Developing,High,6.354596907,Low,Unfavorable,28.81037855
+Pune,Tier 2,EV Car,78.17343163,2126,Students,Middle,Low,TRUE,Poor,Low,9.032739481,High,Neutral,17.04332277
+Lucknow,Tier 1,Auto-Rickshaw,396.1548088,4436,Locals,High,Medium,FALSE,Good,Medium,1.770704759,Low,Neutral,54.80409002
+Delhi,Tier 2,Car,421.6749681,942,Locals,Low,Low,TRUE,Poor,High,1.171045974,Medium,Favorable,85.17645519
+Pune,Tier 1,Auto-Rickshaw,140.4814762,2514,Locals,High,Low,FALSE,Poor,High,5.343823239,Medium,Unfavorable,55.25767065
+Lucknow,Tier 3,Auto-Rickshaw,59.23197947,419,Business Travelers,High,Low,TRUE,Good,High,5.652778919,Low,Neutral,54.38321563
+Lucknow,Tier 3,Car,323.7086931,1216,Tourists,Low,Medium,FALSE,Good,High,7.968006922,Medium,Neutral,38.24777718
+Bangalore,Tier 1,EV Car,61.46148461,1215,Students,Middle,Medium,FALSE,Developing,Medium,2.321578551,High,Neutral,76.04518924
+Goa,Tier 1,Luxury Vehicle,186.8924044,4963,Locals,Middle,Low,FALSE,Poor,Low,8.174486691,Medium,Unfavorable,90.33455523
+Bangalore,Tier 3,Auto-Rickshaw,452.6025077,3333,Business Travelers,Middle,High,FALSE,Poor,Medium,2.478478086,Low,Favorable,36.11226284
+Bangalore,Tier 2,Luxury Vehicle,423.5527995,359,Locals,Low,Low,FALSE,Good,Medium,4.028676686,Medium,Favorable,39.37222628
+Goa,Tier 3,Luxury Vehicle,79.5401719,2711,Students,Low,High,TRUE,Developing,Low,6.801302383,High,Unfavorable,93.4070765
+Pune,Tier 2,Bike Taxi,232.0120202,1929,Locals,Low,Medium,TRUE,Developing,High,4.541350714,High,Favorable,98.9551394
+Bangalore,Tier 3,Luxury Vehicle,213.2458123,4527,Tourists,Middle,Medium,TRUE,Developing,Medium,2.124485799,Low,Neutral,7.158812233
+Goa,Tier 1,EV Car,304.1972475,2350,Students,High,High,FALSE,Developing,Medium,2.131597687,High,Neutral,79.29252594
+Goa,Tier 2,Car,357.2634914,570,Business Travelers,Middle,Low,TRUE,Good,High,3.21899523,High,Neutral,42.38897579
+Mumbai,Tier 3,Luxury Vehicle,343.4977517,3370,Students,Middle,Medium,FALSE,Poor,High,4.860480759,Low,Unfavorable,69.70944469
+Pune,Tier 3,EV Car,119.968017,713,Students,Middle,Medium,FALSE,Poor,Medium,4.853807033,Low,Neutral,74.23609258
+Goa,Tier 3,EV Car,128.6154623,3283,Business Travelers,High,Medium,TRUE,Poor,Low,1.042511942,High,Neutral,36.8386083
+Hyderabad,Tier 2,Bike Taxi,193.4997886,3547,Business Travelers,Middle,High,TRUE,Poor,Medium,3.155034801,High,Favorable,56.64406669
+Lucknow,Tier 3,EV Car,433.9020208,1839,Business Travelers,Middle,High,FALSE,Good,High,1.585753718,Low,Favorable,46.72479455
+Goa,Tier 2,Car,311.1635137,4002,Tourists,Middle,Low,FALSE,Developing,High,8.278287413,Low,Favorable,58.16603394
+Jaipur,Tier 3,Car,77.71980097,968,Students,Low,Low,TRUE,Developing,Medium,4.531257671,Medium,Neutral,90.36949809
+Lucknow,Tier 2,Bike Taxi,330.7397382,2169,Business Travelers,Middle,Low,FALSE,Poor,High,8.941448321,Medium,Unfavorable,10.18135714
+Delhi,Tier 3,Auto-Rickshaw,434.1236273,1511,Tourists,High,Medium,FALSE,Developing,Low,5.530640788,Medium,Unfavorable,99.62655523
+Jaipur,Tier 2,Bike Taxi,444.6415349,1457,Students,Middle,Low,FALSE,Poor,Low,2.88979896,Medium,Unfavorable,24.83343225
+Pune,Tier 2,Luxury Vehicle,100.9737688,930,Business Travelers,Low,Low,TRUE,Good,Low,8.865458417,Medium,Favorable,43.89783396
+Bangalore,Tier 2,Bike Taxi,250.4965019,2865,Business Travelers,Middle,High,TRUE,Good,Medium,9.560250851,High,Neutral,61.17858536
+Jaipur,Tier 1,Luxury Vehicle,312.8453978,1521,Tourists,Middle,Low,TRUE,Poor,High,7.142553565,Low,Neutral,11.72044774
+Lucknow,Tier 2,Car,497.9446513,3160,Students,Middle,Low,TRUE,Poor,High,4.157207263,High,Unfavorable,88.13467947
+Lucknow,Tier 2,Luxury Vehicle,430.2978467,950,Business Travelers,Low,High,TRUE,Poor,Medium,6.008689977,High,Unfavorable,85.81013608
+Mumbai,Tier 2,Auto-Rickshaw,432.4514998,2343,Tourists,Middle,Medium,TRUE,Poor,Low,9.609608932,Low,Neutral,17.38767388
+Bangalore,Tier 1,Car,252.0170432,550,Locals,Middle,High,FALSE,Poor,Medium,3.31159765,Low,Neutral,93.79339364
+Bangalore,Tier 3,EV Car,66.50205945,3249,Tourists,High,Medium,TRUE,Developing,Low,7.301287484,Medium,Favorable,71.83459175
+Bangalore,Tier 3,EV Car,450.5807777,1695,Tourists,Middle,Low,TRUE,Developing,High,3.20191245,High,Neutral,88.78115028
+Pune,Tier 1,EV Car,311.5620061,548,Locals,Low,Medium,TRUE,Developing,High,8.26539086,Medium,Unfavorable,39.49592284
+Delhi,Tier 1,Car,380.1217203,3466,Tourists,High,Low,FALSE,Poor,High,8.901219519,High,Neutral,13.2621123
+Hyderabad,Tier 3,EV Car,367.0371289,1526,Locals,High,High,FALSE,Poor,Low,1.079763266,Low,Unfavorable,97.07643632
+Kolkata,Tier 3,Auto-Rickshaw,218.4304088,1171,Students,Low,High,TRUE,Poor,High,7.308135619,Low,Unfavorable,46.82518871
+Mumbai,Tier 3,Bike Taxi,179.8736231,3568,Students,Low,Medium,FALSE,Developing,High,9.23486202,Medium,Favorable,60.44710173
+Bangalore,Tier 2,Auto-Rickshaw,450.3805384,4283,Business Travelers,Low,Medium,FALSE,Good,Medium,6.321650918,Medium,Unfavorable,69.03900234
+Hyderabad,Tier 3,Auto-Rickshaw,349.5949798,4822,Locals,High,Medium,TRUE,Developing,Low,4.998229227,Medium,Unfavorable,19.31194498
+Bangalore,Tier 1,Bike Taxi,108.5747444,1581,Students,Middle,High,FALSE,Good,High,3.59584446,High,Neutral,9.138206921
+Lucknow,Tier 1,Car,472.6569026,3363,Students,High,Low,TRUE,Good,High,3.724196958,High,Unfavorable,3.404239398
+Jaipur,Tier 3,Auto-Rickshaw,112.8283435,4792,Business Travelers,High,Medium,TRUE,Poor,Medium,1.836646588,Medium,Unfavorable,33.83808206
+Goa,Tier 1,Car,395.2735053,157,Tourists,Middle,Low,FALSE,Developing,High,1.550772965,High,Unfavorable,66.18255464
+Kolkata,Tier 3,Car,170.4437284,4600,Business Travelers,High,High,TRUE,Good,Medium,5.494030928,High,Neutral,8.234434633
+Bangalore,Tier 1,Car,233.3387067,1818,Business Travelers,Middle,High,TRUE,Developing,Medium,5.286942813,Medium,Favorable,76.95812114
+Chennai,Tier 2,EV Car,150.3852177,122,Tourists,Low,Medium,TRUE,Developing,Low,7.644416736,High,Unfavorable,57.0397721
+Goa,Tier 1,Luxury Vehicle,236.3488582,2755,Students,High,Medium,TRUE,Poor,Low,9.722388999,High,Favorable,47.4330947
+Kolkata,Tier 2,EV Car,284.8100312,1632,Tourists,High,High,TRUE,Developing,High,7.554435459,Medium,Neutral,36.67247889
+Hyderabad,Tier 1,EV Car,306.5324743,1004,Locals,Low,Low,FALSE,Developing,Low,3.031734787,Medium,Neutral,17.12208316
+Lucknow,Tier 2,EV Car,304.4442926,1517,Students,Middle,Low,FALSE,Good,Medium,6.470124105,Low,Unfavorable,93.87747642
+Mumbai,Tier 1,Car,180.2080425,4445,Business Travelers,Middle,High,FALSE,Good,Low,4.678993338,Medium,Neutral,85.62357727
+Delhi,Tier 1,Car,419.4575767,2811,Tourists,Middle,Medium,TRUE,Good,Medium,1.197519607,Medium,Neutral,57.98665302
+Hyderabad,Tier 2,Luxury Vehicle,172.0852019,905,Students,Low,High,FALSE,Good,Medium,7.703889367,Medium,Unfavorable,36.97214795
+Bangalore,Tier 3,EV Car,298.0806525,3970,Locals,High,Medium,TRUE,Good,Medium,1.742083652,Low,Favorable,56.35433907
+Mumbai,Tier 1,Bike Taxi,218.7658651,1544,Tourists,Low,Medium,FALSE,Good,High,7.064864138,Low,Unfavorable,59.05316197
+Lucknow,Tier 3,EV Car,156.5773299,759,Tourists,Middle,High,FALSE,Poor,High,3.411673303,Low,Favorable,88.75335829
+Chennai,Tier 1,Car,430.4625544,1923,Locals,Middle,Medium,FALSE,Poor,Low,8.877883182,Medium,Unfavorable,24.48614027
+Bangalore,Tier 1,Car,240.8113219,3622,Students,Low,Medium,FALSE,Poor,Medium,3.102036561,High,Unfavorable,53.95038196
+Goa,Tier 2,Car,253.2148848,2663,Students,Middle,Low,TRUE,Good,Low,7.132185287,High,Unfavorable,25.7996839
+Bangalore,Tier 1,EV Car,337.4415734,4365,Students,High,Low,FALSE,Poor,Medium,6.618614377,Low,Unfavorable,46.44745027
+Mumbai,Tier 1,Car,208.33115,2746,Students,Middle,Medium,TRUE,Poor,High,2.224135782,Medium,Favorable,86.46268302
+Bangalore,Tier 1,Car,357.4501271,1277,Tourists,Low,Medium,FALSE,Developing,Low,5.544746307,Medium,Unfavorable,52.21548204
+Jaipur,Tier 3,Car,122.3383806,3392,Business Travelers,High,Low,TRUE,Developing,High,9.767819879,Low,Unfavorable,60.90699804
+Jaipur,Tier 3,Car,180.4999726,2855,Students,Low,Medium,FALSE,Poor,Low,9.582004507,Low,Neutral,41.46095817
+Mumbai,Tier 1,Luxury Vehicle,452.6940652,2338,Locals,Middle,Medium,FALSE,Poor,Low,6.080576427,Low,Favorable,85.48470272
+Hyderabad,Tier 3,Luxury Vehicle,78.8033989,150,Tourists,High,Medium,FALSE,Poor,Medium,9.798182356,High,Unfavorable,83.34834732
+Bangalore,Tier 1,Car,423.5386853,4167,Business Travelers,Low,High,FALSE,Poor,Medium,6.015426645,Medium,Unfavorable,49.36597685
+Bangalore,Tier 2,EV Car,210.1793226,569,Locals,Low,Low,TRUE,Developing,Low,3.265793663,Low,Neutral,91.03616935
+Kolkata,Tier 2,Auto-Rickshaw,158.2776291,2238,Students,Low,High,FALSE,Poor,Medium,7.332093997,High,Favorable,69.02540215
+Chennai,Tier 3,Bike Taxi,482.1884652,1408,Students,Low,Medium,TRUE,Poor,Low,5.143600313,High,Neutral,71.53747389
+Bangalore,Tier 2,Auto-Rickshaw,79.14493752,2663,Students,Middle,Low,TRUE,Developing,Low,5.374689353,Medium,Neutral,48.99729973
+Jaipur,Tier 2,Car,247.5764137,1840,Business Travelers,Middle,High,FALSE,Good,High,9.59700122,Medium,Neutral,27.27499405
+Chennai,Tier 3,Bike Taxi,383.1073373,4678,Students,Low,Medium,FALSE,Poor,Medium,7.254888268,Low,Favorable,71.68874771
+Kolkata,Tier 1,Luxury Vehicle,327.6139544,1502,Locals,Middle,Medium,TRUE,Good,High,8.218349397,Low,Favorable,36.03258581
+Pune,Tier 3,Car,488.0495736,3679,Business Travelers,Low,High,TRUE,Poor,Low,2.260808905,Low,Neutral,16.39575502
+Pune,Tier 2,Auto-Rickshaw,358.976167,4572,Business Travelers,Low,High,TRUE,Poor,Low,9.676527238,Medium,Unfavorable,43.18155568
+Mumbai,Tier 2,Car,356.8398448,2620,Students,High,High,TRUE,Developing,Medium,5.436960923,High,Neutral,58.57163129
+Kolkata,Tier 2,Car,265.8006206,4019,Business Travelers,High,High,TRUE,Developing,Low,4.6244665,Medium,Neutral,51.80894368
+Jaipur,Tier 1,Car,217.5803277,3231,Students,Middle,Low,TRUE,Good,High,8.260021245,Medium,Unfavorable,38.45935181
+Chennai,Tier 3,EV Car,408.417669,1563,Business Travelers,Middle,Medium,FALSE,Developing,Medium,8.975668161,High,Neutral,87.44111524
+Delhi,Tier 1,EV Car,187.3509154,2419,Business Travelers,High,High,TRUE,Developing,Medium,2.224595922,High,Favorable,85.31311647
+Pune,Tier 1,EV Car,431.5250174,3847,Locals,Middle,Medium,FALSE,Developing,Low,3.816294716,Low,Favorable,5.122967632
+Delhi,Tier 1,Bike Taxi,179.6777482,1620,Tourists,Middle,Medium,FALSE,Developing,Medium,5.397270949,High,Favorable,14.0204524
+Jaipur,Tier 2,EV Car,317.9107265,4195,Tourists,High,Low,FALSE,Developing,Low,6.702243159,Low,Favorable,73.12666799
+Lucknow,Tier 2,Car,170.3059506,4506,Tourists,Low,Medium,FALSE,Poor,Medium,4.298267694,Low,Unfavorable,59.8342056
+Lucknow,Tier 1,Luxury Vehicle,372.0939583,1664,Tourists,High,Low,TRUE,Good,Low,5.883582199,Low,Neutral,9.308593096
+Goa,Tier 3,EV Car,182.8099658,4877,Locals,Low,Low,FALSE,Poor,Low,6.508400349,Low,Neutral,69.66998824
+Chennai,Tier 1,Car,111.79046,1948,Business Travelers,Low,High,TRUE,Good,High,7.389091434,Medium,Neutral,46.00509985
+Kolkata,Tier 2,Auto-Rickshaw,150.7558945,3381,Business Travelers,Middle,Low,FALSE,Developing,Medium,2.963742611,Low,Neutral,93.07248454
+Pune,Tier 2,Auto-Rickshaw,243.82557,1165,Business Travelers,High,High,TRUE,Developing,Medium,4.908717916,Medium,Favorable,42.04764597
+Bangalore,Tier 3,EV Car,252.3890992,308,Locals,Low,Low,FALSE,Poor,High,1.947823083,Medium,Neutral,51.24763134
+Mumbai,Tier 1,Bike Taxi,475.6560725,602,Business Travelers,High,Medium,FALSE,Good,High,2.391061339,High,Favorable,15.67781062
+Mumbai,Tier 1,Auto-Rickshaw,86.62992852,1508,Business Travelers,High,Medium,FALSE,Poor,Medium,4.900820343,High,Neutral,57.74577192
+Hyderabad,Tier 2,Car,193.3403388,301,Locals,High,Medium,TRUE,Developing,Low,3.231995389,High,Unfavorable,98.22526082
+Lucknow,Tier 2,EV Car,94.65352257,3929,Students,Middle,High,FALSE,Good,High,7.542161299,Medium,Unfavorable,83.23437257
+Delhi,Tier 1,Auto-Rickshaw,444.9759231,1918,Business Travelers,Middle,High,TRUE,Good,High,2.219894774,High,Favorable,87.11205269
+Chennai,Tier 3,EV Car,491.4059297,1464,Business Travelers,Low,Medium,FALSE,Poor,Low,1.935535683,High,Neutral,46.37418037
+Jaipur,Tier 1,EV Car,428.3585571,4679,Students,High,Low,TRUE,Developing,Medium,7.60586779,Medium,Unfavorable,42.02565225
+Mumbai,Tier 2,Auto-Rickshaw,198.8787629,4593,Tourists,High,Medium,TRUE,Good,Low,8.408858084,Low,Unfavorable,53.5893075
+Goa,Tier 1,Bike Taxi,446.9350232,4592,Locals,High,Medium,FALSE,Developing,Medium,6.188635101,Medium,Favorable,10.29408437
+Bangalore,Tier 3,EV Car,68.97746247,2122,Tourists,High,Low,TRUE,Poor,High,2.116882302,Low,Unfavorable,17.88616398
+Goa,Tier 1,Car,259.2219485,167,Locals,Low,Medium,FALSE,Developing,Low,9.217286995,Low,Neutral,47.60154379
+Jaipur,Tier 3,Luxury Vehicle,310.1518666,1992,Tourists,Low,Low,FALSE,Developing,High,6.706763895,Medium,Unfavorable,7.224407576
+Kolkata,Tier 1,Auto-Rickshaw,176.3221974,3890,Students,Low,High,FALSE,Poor,High,4.810404647,Low,Unfavorable,94.12241588
+Goa,Tier 2,Luxury Vehicle,322.7806731,2980,Tourists,High,High,TRUE,Good,Low,2.416174347,Low,Favorable,57.42058958
+Mumbai,Tier 3,EV Car,205.897026,1156,Locals,Middle,Medium,TRUE,Poor,High,7.616928835,High,Unfavorable,75.13432105
+Delhi,Tier 3,Auto-Rickshaw,392.1735223,2647,Locals,Middle,Low,FALSE,Good,Medium,1.200310344,Medium,Unfavorable,21.16672576
+Lucknow,Tier 1,Auto-Rickshaw,131.943553,2846,Business Travelers,Low,Low,FALSE,Poor,High,5.182000999,High,Favorable,6.365019236
+Lucknow,Tier 3,Auto-Rickshaw,368.3756117,578,Business Travelers,Low,Medium,TRUE,Developing,Medium,2.543747567,High,Favorable,87.71115353
+Lucknow,Tier 3,EV Car,490.5782572,1488,Tourists,Middle,Medium,FALSE,Developing,Low,4.849864541,Low,Neutral,64.96761382
+Goa,Tier 3,EV Car,430.6564117,450,Business Travelers,High,High,FALSE,Developing,Low,7.095645221,Low,Favorable,57.72141865
+Delhi,Tier 2,EV Car,220.5711556,2466,Students,Low,High,TRUE,Poor,High,3.844307771,High,Unfavorable,23.96712071
+Hyderabad,Tier 2,Auto-Rickshaw,391.8427851,1931,Locals,Middle,High,TRUE,Poor,Low,9.989105352,High,Unfavorable,81.82665078
+Kolkata,Tier 3,Bike Taxi,231.7357978,3231,Business Travelers,Low,Medium,FALSE,Poor,High,1.862744725,Medium,Neutral,48.02820252
+Lucknow,Tier 1,Bike Taxi,493.1785487,4031,Tourists,Low,High,TRUE,Developing,Medium,8.471444824,Low,Unfavorable,78.4356075
+Goa,Tier 2,Bike Taxi,283.9307942,932,Locals,Low,Medium,TRUE,Developing,High,9.418852724,High,Favorable,8.900610546
+Jaipur,Tier 3,Bike Taxi,139.3636132,3336,Students,High,Low,FALSE,Poor,High,6.456675044,High,Neutral,63.30884191
+Bangalore,Tier 2,Luxury Vehicle,68.94041457,467,Business Travelers,High,High,TRUE,Poor,Low,3.552538938,High,Neutral,72.92543155
+Hyderabad,Tier 1,Bike Taxi,64.23936649,2040,Locals,High,Medium,TRUE,Good,Low,2.696530561,Medium,Neutral,89.04749351
+Hyderabad,Tier 1,Car,359.5648322,3429,Tourists,Middle,High,TRUE,Good,High,2.47832731,High,Unfavorable,98.65338733
+Kolkata,Tier 2,Auto-Rickshaw,225.2791133,4622,Locals,High,High,TRUE,Good,High,3.037100623,High,Neutral,93.25518512
+Pune,Tier 3,Auto-Rickshaw,61.88901126,2289,Business Travelers,Middle,High,FALSE,Good,Low,2.788817112,Medium,Neutral,81.09352169
+Bangalore,Tier 2,Bike Taxi,102.3645448,3591,Students,Middle,Medium,TRUE,Developing,Medium,4.123170316,High,Favorable,34.82496054
+Bangalore,Tier 3,EV Car,174.4158146,2213,Students,High,High,FALSE,Developing,Low,6.144195267,Low,Unfavorable,12.72423065
+Jaipur,Tier 1,EV Car,390.8864469,4029,Business Travelers,High,High,TRUE,Poor,High,3.38460873,Low,Unfavorable,98.08801888
+Mumbai,Tier 2,Luxury Vehicle,365.1496283,2610,Business Travelers,Middle,High,FALSE,Poor,Low,3.196920294,Low,Neutral,96.92784963
+Bangalore,Tier 3,Luxury Vehicle,151.965294,4570,Business Travelers,Middle,Low,FALSE,Poor,High,4.652475728,Medium,Neutral,80.61481114
+Mumbai,Tier 3,Luxury Vehicle,267.5195476,4934,Business Travelers,Low,High,TRUE,Good,Medium,1.732067627,High,Favorable,90.6498724
+Delhi,Tier 3,Car,458.2133392,2395,Tourists,Middle,High,FALSE,Poor,High,3.525051503,Low,Unfavorable,68.40234828
+Pune,Tier 1,Luxury Vehicle,69.27849577,1194,Tourists,Low,High,TRUE,Developing,Low,6.707101059,Medium,Neutral,27.09818326
+Lucknow,Tier 2,Luxury Vehicle,143.9090538,173,Students,Low,Medium,TRUE,Poor,Medium,9.055020783,Medium,Favorable,22.28252128
+Delhi,Tier 2,Car,88.08174863,1984,Tourists,High,Medium,FALSE,Good,Medium,4.744037361,Medium,Favorable,82.86596266
+Bangalore,Tier 1,EV Car,368.6474421,2447,Locals,Low,Medium,TRUE,Developing,Low,4.27848853,Medium,Unfavorable,84.00988962
+Jaipur,Tier 1,Luxury Vehicle,79.32875131,2750,Tourists,Low,High,FALSE,Good,High,1.667531313,Medium,Favorable,3.050947249
+Pune,Tier 3,Bike Taxi,260.5971068,3812,Locals,Low,Medium,TRUE,Poor,Low,4.619292206,High,Unfavorable,32.57340039
+Jaipur,Tier 1,Auto-Rickshaw,124.1560449,4206,Tourists,Middle,Low,TRUE,Good,Low,6.474227246,Medium,Unfavorable,92.87392476
+Goa,Tier 3,EV Car,455.8032388,3178,Students,Middle,Low,TRUE,Poor,Low,7.123937835,High,Unfavorable,45.25651954
+Lucknow,Tier 3,Auto-Rickshaw,475.8427781,2773,Business Travelers,Low,Low,TRUE,Poor,Low,8.498882556,Low,Unfavorable,72.80831939
+Pune,Tier 1,Auto-Rickshaw,390.6753934,4443,Business Travelers,High,Medium,TRUE,Developing,Low,9.729559834,Low,Neutral,80.81726213
+Hyderabad,Tier 1,EV Car,288.3725266,3447,Locals,High,High,TRUE,Poor,High,3.951354782,High,Neutral,10.70391943
+Pune,Tier 3,Auto-Rickshaw,488.732915,3165,Students,High,High,TRUE,Good,Low,2.40706723,Medium,Neutral,91.22251648
+Mumbai,Tier 2,Car,473.4465038,2685,Business Travelers,Middle,Low,TRUE,Good,Medium,3.019709729,Low,Favorable,82.64664147
+Lucknow,Tier 3,EV Car,53.82430929,2272,Locals,Low,Low,TRUE,Good,High,1.987735985,Low,Favorable,96.04948639
+Pune,Tier 3,EV Car,75.93198943,4053,Business Travelers,High,Low,FALSE,Good,High,7.226474011,Low,Unfavorable,20.82259011
+Lucknow,Tier 3,EV Car,427.08388,419,Locals,Low,Medium,TRUE,Good,Low,2.3877248,Low,Favorable,54.89692765
+Lucknow,Tier 1,Car,96.83135681,1655,Locals,High,High,FALSE,Developing,High,1.885692767,High,Unfavorable,64.98036828
+Jaipur,Tier 3,EV Car,251.4771312,3000,Locals,Middle,High,FALSE,Developing,Medium,6.03128885,High,Favorable,60.45051326
+Delhi,Tier 3,Luxury Vehicle,107.244768,1881,Tourists,Middle,High,FALSE,Poor,Medium,3.58983329,High,Neutral,15.86321131
+Chennai,Tier 3,Car,69.77595256,3035,Students,Middle,High,TRUE,Good,High,7.76795921,High,Unfavorable,8.090190383
+Goa,Tier 2,Bike Taxi,433.9235898,1450,Tourists,High,Low,TRUE,Developing,High,7.22056582,Low,Neutral,61.46645495
+Hyderabad,Tier 1,Auto-Rickshaw,116.9330961,2756,Students,Middle,Medium,FALSE,Poor,Low,8.302431232,High,Favorable,23.69964147
+Delhi,Tier 1,Bike Taxi,133.2331321,3534,Tourists,Low,Medium,TRUE,Developing,High,2.612125895,Low,Favorable,8.923375711
+Pune,Tier 3,EV Car,69.73743539,3739,Students,High,High,FALSE,Poor,Low,2.260071947,Low,Neutral,65.2559276
+Goa,Tier 2,Bike Taxi,164.2492801,1193,Tourists,Middle,High,FALSE,Good,High,4.687854048,High,Favorable,79.93113757
+Bangalore,Tier 1,EV Car,177.8190186,4727,Locals,High,High,TRUE,Poor,High,5.632021086,High,Neutral,99.78207854
+Goa,Tier 2,Luxury Vehicle,387.7674003,4632,Students,Middle,Low,FALSE,Good,High,3.400055637,Medium,Favorable,33.19095082
+Delhi,Tier 1,Car,403.8066181,4556,Business Travelers,High,Low,FALSE,Developing,Medium,7.222570333,High,Unfavorable,27.01416748
+Mumbai,Tier 3,Auto-Rickshaw,436.4954708,1704,Tourists,High,High,TRUE,Poor,High,3.100529513,High,Favorable,60.35400613
+Hyderabad,Tier 1,Bike Taxi,468.8499479,3421,Business Travelers,Middle,High,FALSE,Poor,High,1.518463559,Low,Favorable,15.90688034
+Delhi,Tier 2,Car,208.3010451,2728,Students,Middle,Low,TRUE,Good,Medium,5.245057863,Medium,Unfavorable,22.95068539
+Hyderabad,Tier 2,Luxury Vehicle,260.4208905,126,Students,High,Medium,TRUE,Poor,High,8.730142983,High,Unfavorable,16.35783619
+Jaipur,Tier 1,EV Car,285.5318934,2960,Locals,High,Low,FALSE,Poor,Medium,9.079572785,Medium,Unfavorable,28.94531099
+Chennai,Tier 2,Auto-Rickshaw,217.8278982,446,Students,High,Low,FALSE,Developing,High,7.554275373,High,Favorable,19.54239685
+Chennai,Tier 1,Auto-Rickshaw,118.8229837,288,Locals,Middle,Medium,FALSE,Developing,Medium,2.202971996,High,Unfavorable,19.0744143
+Hyderabad,Tier 3,Luxury Vehicle,187.8260846,4094,Tourists,High,Medium,TRUE,Good,High,8.463067542,Medium,Favorable,75.66471854
+Chennai,Tier 3,Auto-Rickshaw,50.30942065,700,Tourists,Middle,Medium,FALSE,Good,Medium,4.797811849,High,Favorable,8.109090618
+Kolkata,Tier 3,Bike Taxi,450.0640195,3649,Tourists,Low,Medium,TRUE,Developing,Medium,6.706805995,High,Favorable,56.27904317
+Delhi,Tier 3,Bike Taxi,295.1663782,4532,Tourists,Middle,Low,TRUE,Developing,High,1.593145945,Low,Neutral,64.20260231
+Chennai,Tier 2,Car,59.12837776,4935,Students,High,Medium,FALSE,Poor,Low,9.740494928,Low,Favorable,89.89106928
+Pune,Tier 3,Auto-Rickshaw,222.5787799,1399,Business Travelers,Middle,Low,TRUE,Developing,High,4.674512865,Low,Favorable,37.16207461
+Chennai,Tier 2,Luxury Vehicle,370.5346547,641,Students,Low,Medium,FALSE,Good,Low,4.6734298,High,Neutral,52.65891868
+Bangalore,Tier 3,Car,358.0473159,4999,Students,Low,Medium,FALSE,Poor,Medium,9.486226309,Medium,Unfavorable,94.81853468
+Bangalore,Tier 1,Auto-Rickshaw,378.5973956,1241,Students,High,Low,TRUE,Poor,Low,3.476097006,High,Favorable,89.27458766
+Jaipur,Tier 1,Car,114.9264699,2510,Locals,Middle,Medium,TRUE,Poor,Low,5.991175729,Medium,Neutral,71.80240902
+Pune,Tier 2,Auto-Rickshaw,121.6103529,3339,Business Travelers,Low,Medium,FALSE,Poor,Medium,1.983556948,High,Favorable,92.43315884
+Mumbai,Tier 1,EV Car,74.48276326,2958,Students,Low,Medium,FALSE,Developing,High,9.303750735,Medium,Neutral,11.61979081
+Delhi,Tier 2,Luxury Vehicle,234.903111,3087,Business Travelers,Middle,Low,FALSE,Good,Medium,3.616177368,Low,Neutral,25.88589456
+Chennai,Tier 1,Luxury Vehicle,102.8300752,2698,Tourists,Low,Medium,TRUE,Poor,Medium,2.446930755,High,Favorable,59.01603805
+Bangalore,Tier 1,Bike Taxi,127.8624939,4587,Tourists,High,Medium,TRUE,Developing,High,1.14016822,Low,Unfavorable,16.09239631
+Kolkata,Tier 1,Car,196.8842753,1564,Locals,Low,Medium,FALSE,Good,Medium,6.144821904,Low,Neutral,28.56568573
+Chennai,Tier 3,EV Car,224.5337507,1630,Business Travelers,High,Medium,TRUE,Developing,Medium,2.334581248,Low,Neutral,46.05217642
+Bangalore,Tier 2,Bike Taxi,383.2895785,1090,Business Travelers,Low,Medium,FALSE,Developing,High,8.80631473,High,Neutral,90.79178829
+Pune,Tier 1,Car,269.1016669,1455,Locals,Low,High,FALSE,Good,Medium,6.974873699,Medium,Favorable,66.94927985
+Bangalore,Tier 3,Car,312.7396144,1563,Locals,High,High,TRUE,Developing,Low,3.384945561,Medium,Neutral,84.93140431
+Kolkata,Tier 2,Bike Taxi,226.1886953,1728,Business Travelers,Low,Medium,TRUE,Poor,High,1.768852689,High,Unfavorable,18.96979779
+Mumbai,Tier 3,Bike Taxi,348.0778136,4559,Students,Middle,Medium,TRUE,Good,High,1.555007105,Medium,Neutral,64.95907739
+Kolkata,Tier 3,Auto-Rickshaw,327.0222985,2275,Tourists,Low,Low,TRUE,Good,High,6.556154941,Medium,Favorable,14.61273203
+Kolkata,Tier 1,Bike Taxi,140.9159341,2607,Tourists,High,Low,TRUE,Developing,Low,7.713638838,High,Favorable,60.32365071
+Mumbai,Tier 3,Luxury Vehicle,398.5669885,3240,Students,Low,Medium,FALSE,Developing,Low,1.569606712,Low,Neutral,22.8482941
+Delhi,Tier 1,EV Car,351.6401938,490,Tourists,High,Low,TRUE,Poor,High,4.97671949,Medium,Unfavorable,65.00403944
+Hyderabad,Tier 2,Luxury Vehicle,301.2169636,4576,Locals,Middle,Medium,FALSE,Developing,High,3.45525975,Medium,Neutral,14.36045582
+Delhi,Tier 1,Luxury Vehicle,160.9870133,2357,Locals,High,Medium,FALSE,Poor,Medium,9.54423092,Low,Neutral,47.97458544
+Mumbai,Tier 3,Luxury Vehicle,177.725659,3026,Locals,Middle,Medium,FALSE,Good,Low,3.288629122,High,Neutral,67.9666607
+Bangalore,Tier 3,EV Car,187.8584124,3560,Tourists,Low,Medium,FALSE,Good,Low,1.995388882,Medium,Unfavorable,11.97960719
+Hyderabad,Tier 2,Auto-Rickshaw,127.8633092,1432,Tourists,Low,Low,FALSE,Good,Medium,3.739322209,Low,Favorable,45.33190617
+Bangalore,Tier 3,Auto-Rickshaw,261.8073248,930,Tourists,High,Low,TRUE,Good,Medium,8.034539595,High,Favorable,56.71882797
+Kolkata,Tier 3,Auto-Rickshaw,486.2222695,1784,Tourists,High,Low,TRUE,Poor,Medium,4.031869269,High,Neutral,36.93596156
+Hyderabad,Tier 1,Bike Taxi,93.47420427,928,Business Travelers,Low,High,FALSE,Poor,Medium,9.538558077,High,Unfavorable,56.92900232
+Lucknow,Tier 2,EV Car,169.2186608,1689,Locals,Low,Medium,FALSE,Poor,High,3.203394521,High,Neutral,34.47713931
+Jaipur,Tier 3,EV Car,199.2506949,1494,Students,High,High,FALSE,Good,Medium,2.449711409,High,Unfavorable,21.19795761
+Pune,Tier 1,Luxury Vehicle,113.7594924,2146,Tourists,Middle,High,FALSE,Poor,Low,2.625856156,Medium,Unfavorable,9.815174583
+Chennai,Tier 1,EV Car,184.844548,1780,Locals,High,Low,TRUE,Good,High,9.425766573,High,Unfavorable,52.27767155
+Jaipur,Tier 3,Luxury Vehicle,157.5367532,4413,Tourists,Low,Low,FALSE,Developing,High,2.150528961,Medium,Neutral,50.17940528
+Pune,Tier 2,EV Car,357.91848,1853,Students,Middle,High,FALSE,Good,Low,7.993239447,Low,Unfavorable,31.36967293
+Jaipur,Tier 2,Car,465.0341325,2339,Business Travelers,High,Medium,TRUE,Developing,Medium,4.036012594,Low,Favorable,37.90266607
+Hyderabad,Tier 2,Auto-Rickshaw,117.189079,2420,Locals,High,Low,FALSE,Poor,Low,4.19980197,Low,Favorable,13.23463117
+Kolkata,Tier 2,Auto-Rickshaw,128.3139647,2590,Students,Low,Medium,FALSE,Developing,High,8.379216109,Low,Favorable,80.70011233
+Kolkata,Tier 2,Luxury Vehicle,302.5065753,3333,Locals,Low,High,TRUE,Poor,Medium,8.461758734,Low,Unfavorable,96.18890713
+Kolkata,Tier 1,Bike Taxi,405.5796984,2785,Students,Low,Medium,FALSE,Good,Low,5.31515834,Medium,Unfavorable,76.02179146
+Mumbai,Tier 2,EV Car,58.17212194,4510,Students,Middle,High,TRUE,Good,Medium,9.699462146,Medium,Favorable,1.530333831
+Jaipur,Tier 3,Bike Taxi,334.3647217,3144,Business Travelers,Middle,Low,FALSE,Developing,High,3.217636159,High,Neutral,75.40971898
+Delhi,Tier 3,Car,174.3255651,4336,Locals,High,Low,FALSE,Good,High,1.666131392,Low,Unfavorable,25.33731983
+Goa,Tier 2,Luxury Vehicle,490.4977853,1232,Business Travelers,Low,Low,TRUE,Developing,Medium,9.358734443,Medium,Unfavorable,50.5726253
+Pune,Tier 1,Car,280.3531357,2929,Tourists,Middle,Low,FALSE,Poor,Medium,6.372860514,High,Neutral,27.947959
+Chennai,Tier 1,Car,313.0815791,3587,Students,Low,Low,FALSE,Poor,Medium,8.115911945,High,Favorable,31.82024879
+Mumbai,Tier 3,Luxury Vehicle,209.7968549,493,Locals,Low,Low,TRUE,Poor,Medium,1.12994462,Low,Neutral,50.48119451
+Delhi,Tier 3,Auto-Rickshaw,303.7501018,4441,Locals,Low,High,TRUE,Developing,Low,2.475998369,High,Neutral,92.34713502
+Goa,Tier 3,EV Car,493.1760026,693,Business Travelers,Middle,Low,TRUE,Good,Medium,9.148233886,Medium,Neutral,10.77835791
+Bangalore,Tier 2,Bike Taxi,54.55898386,209,Business Travelers,Low,Medium,TRUE,Developing,Medium,1.632606817,Low,Neutral,17.10599642
+Jaipur,Tier 2,Car,426.9290274,4861,Students,Middle,High,TRUE,Poor,High,5.447631914,Medium,Unfavorable,75.34674372
+Chennai,Tier 1,Bike Taxi,258.106871,460,Students,High,High,FALSE,Developing,High,6.968610923,High,Neutral,91.63883264
+Chennai,Tier 2,Bike Taxi,235.0154039,3507,Students,Middle,High,TRUE,Poor,High,4.113492035,Medium,Unfavorable,25.6255669
+Chennai,Tier 3,Luxury Vehicle,403.7325276,4252,Tourists,Low,Low,FALSE,Developing,High,1.20059153,High,Unfavorable,65.94375906
+Jaipur,Tier 1,Luxury Vehicle,69.7193973,1298,Tourists,Middle,High,TRUE,Poor,Medium,2.022749252,Low,Neutral,49.20155967
+Chennai,Tier 3,Luxury Vehicle,356.648105,2536,Students,High,Low,TRUE,Poor,Low,4.761324115,Medium,Favorable,4.869057191
+Jaipur,Tier 1,Luxury Vehicle,323.2482517,4440,Business Travelers,High,Medium,TRUE,Developing,Medium,4.324322002,Medium,Neutral,73.60502805
+Bangalore,Tier 2,Bike Taxi,358.0696502,4407,Locals,Middle,High,TRUE,Poor,Medium,7.665642391,High,Unfavorable,49.45439715
+Jaipur,Tier 1,EV Car,252.3201561,4433,Students,Middle,Medium,TRUE,Developing,Low,6.933503042,High,Neutral,4.30483667
+Bangalore,Tier 1,Luxury Vehicle,91.17185244,1159,Business Travelers,Middle,Medium,TRUE,Poor,Low,8.417456517,High,Unfavorable,7.882575928
+Delhi,Tier 3,Luxury Vehicle,52.01804955,2568,Business Travelers,Low,High,FALSE,Developing,Low,6.86348062,Low,Neutral,99.22577382
+Goa,Tier 2,Luxury Vehicle,364.7643672,3236,Tourists,High,Medium,TRUE,Developing,Low,4.919668017,Low,Favorable,63.14152873
+Goa,Tier 2,Luxury Vehicle,175.7596139,1629,Locals,High,High,TRUE,Developing,Medium,1.71753743,Medium,Unfavorable,90.61922025
+Goa,Tier 2,Luxury Vehicle,200.4313943,2570,Students,High,Medium,FALSE,Developing,Medium,6.868541602,High,Unfavorable,79.15932359
+Bangalore,Tier 1,Car,478.5388614,1244,Students,Low,High,FALSE,Poor,Low,5.096588602,High,Neutral,17.45308131
+Pune,Tier 3,Auto-Rickshaw,138.3217653,435,Tourists,Middle,High,FALSE,Good,Low,8.203914945,Low,Unfavorable,15.77818202
+Mumbai,Tier 2,Car,100.1538138,2303,Locals,Low,Low,TRUE,Poor,High,2.751168764,High,Unfavorable,90.23443897
+Mumbai,Tier 3,Auto-Rickshaw,83.36353383,4200,Tourists,Low,Low,FALSE,Good,Medium,6.393635009,High,Favorable,34.42110604
+Bangalore,Tier 1,Bike Taxi,441.7412972,187,Tourists,High,Low,TRUE,Developing,Low,9.50225316,Low,Unfavorable,19.84597877
+Kolkata,Tier 3,Auto-Rickshaw,103.7264412,573,Students,Middle,Low,FALSE,Good,Medium,5.911512515,High,Unfavorable,66.00919013
+Jaipur,Tier 3,Bike Taxi,445.5551092,2112,Tourists,Low,High,TRUE,Developing,High,1.200583905,High,Unfavorable,6.709109409
+Bangalore,Tier 3,Car,313.3416915,3473,Business Travelers,High,Low,FALSE,Good,High,7.469354168,High,Neutral,69.43835944
+Kolkata,Tier 2,Bike Taxi,184.6341861,310,Locals,High,Low,FALSE,Developing,Medium,9.690600598,Medium,Neutral,56.72291018
+Chennai,Tier 3,Car,382.5080169,4944,Business Travelers,Low,Medium,TRUE,Good,High,5.76887883,Medium,Favorable,83.08697106
+Bangalore,Tier 3,EV Car,271.3707981,1133,Business Travelers,Middle,Low,TRUE,Poor,High,6.853091784,Medium,Favorable,59.67430156
+Jaipur,Tier 3,Luxury Vehicle,456.4074264,4350,Tourists,Middle,Low,TRUE,Poor,Low,2.182505803,High,Favorable,15.52422506
+Pune,Tier 1,Car,200.1517876,4740,Business Travelers,Low,Medium,FALSE,Developing,High,6.323971457,Medium,Unfavorable,63.51260673
+Jaipur,Tier 2,Bike Taxi,126.9237821,3207,Students,High,Medium,FALSE,Good,Medium,4.293323908,Low,Favorable,67.41414219
+Lucknow,Tier 1,Bike Taxi,272.5280327,4913,Tourists,Middle,Medium,TRUE,Developing,Medium,2.777910282,High,Neutral,7.204567341
+Kolkata,Tier 2,Car,153.9487483,464,Students,High,Medium,FALSE,Good,Low,8.877425617,High,Favorable,78.06914897
+Mumbai,Tier 2,EV Car,201.1482037,4328,Students,Low,Low,TRUE,Good,Medium,6.690408357,High,Favorable,47.66409426
+Kolkata,Tier 1,Bike Taxi,200.512145,4915,Business Travelers,High,High,TRUE,Developing,High,8.596194203,Medium,Unfavorable,59.50799336
+Kolkata,Tier 1,Car,245.2053999,1768,Students,High,Low,TRUE,Good,Medium,7.805128506,Medium,Unfavorable,33.96547182
+Kolkata,Tier 1,Luxury Vehicle,86.73500189,4533,Tourists,Middle,High,TRUE,Poor,Medium,7.712089037,Low,Unfavorable,34.2324356
+Pune,Tier 3,Auto-Rickshaw,155.2512089,1162,Tourists,Middle,High,FALSE,Developing,Medium,8.776967845,Medium,Neutral,75.16655407
+Delhi,Tier 2,EV Car,61.94373141,1167,Tourists,Low,High,TRUE,Developing,Medium,6.858670363,High,Favorable,8.344834151
+Pune,Tier 3,Car,77.70667132,4879,Locals,High,Medium,TRUE,Developing,Medium,1.67094019,Low,Favorable,13.37767009
+Kolkata,Tier 3,EV Car,480.9177771,2815,Students,Middle,Low,FALSE,Developing,Low,2.395185337,Low,Unfavorable,11.07527131
+Mumbai,Tier 2,Luxury Vehicle,390.7422655,1073,Business Travelers,Low,Medium,TRUE,Good,Medium,7.569182176,Medium,Neutral,6.426219941
+Bangalore,Tier 3,EV Car,470.4338168,4564,Business Travelers,Low,Low,TRUE,Developing,Low,2.317827146,Medium,Unfavorable,80.91149771
+Pune,Tier 2,Bike Taxi,312.7120003,4266,Business Travelers,Low,Low,TRUE,Poor,Low,3.443362215,Low,Unfavorable,74.66914124
+Kolkata,Tier 3,Bike Taxi,157.9533369,403,Business Travelers,High,High,FALSE,Developing,Low,8.368085834,Medium,Neutral,97.36125549
+Lucknow,Tier 3,Luxury Vehicle,499.5533459,761,Students,Low,High,TRUE,Developing,Low,5.837909759,Medium,Favorable,50.66539731
+Goa,Tier 3,EV Car,57.98007214,4318,Tourists,High,High,FALSE,Poor,High,8.935854506,Medium,Unfavorable,27.61510966
+Jaipur,Tier 1,EV Car,373.7743867,3220,Tourists,Middle,Low,TRUE,Poor,Medium,1.386454532,Low,Favorable,38.6884521
+Chennai,Tier 2,Luxury Vehicle,284.0850083,465,Business Travelers,High,High,TRUE,Good,High,4.392044918,Medium,Unfavorable,55.82830429
+Goa,Tier 1,Bike Taxi,206.7339896,4885,Students,Low,High,FALSE,Developing,Low,4.470491407,Low,Neutral,16.05741965
+Jaipur,Tier 1,Auto-Rickshaw,386.9795091,585,Business Travelers,Middle,High,TRUE,Good,Medium,2.501903398,Medium,Unfavorable,23.71489202
+Lucknow,Tier 1,Luxury Vehicle,402.3475887,3841,Tourists,High,Medium,FALSE,Good,Low,4.086792857,Medium,Favorable,72.64281174
+Hyderabad,Tier 1,EV Car,398.6641521,1106,Locals,Low,Low,TRUE,Poor,Low,4.682934563,Medium,Favorable,1.535501848
+Mumbai,Tier 1,Car,170.0062394,106,Tourists,Middle,Medium,FALSE,Poor,Medium,3.729012742,High,Unfavorable,24.42648237
+Hyderabad,Tier 3,EV Car,73.10982619,2308,Business Travelers,Middle,Low,TRUE,Poor,Medium,1.215945122,High,Favorable,86.56011616
+Hyderabad,Tier 3,Bike Taxi,485.7222925,3444,Students,Middle,High,FALSE,Good,Medium,7.544471534,High,Favorable,78.71291996
+Lucknow,Tier 1,Bike Taxi,340.0931497,4717,Students,Middle,High,FALSE,Poor,Low,6.245035085,High,Neutral,65.89839822
+Mumbai,Tier 2,Bike Taxi,342.4626231,902,Tourists,Low,High,TRUE,Good,Low,5.850068772,Medium,Favorable,48.35092251
+Mumbai,Tier 1,Car,232.3794548,4661,Students,High,High,FALSE,Good,Low,3.152381717,Medium,Neutral,85.69865515
+Mumbai,Tier 2,EV Car,193.8957061,3311,Tourists,Middle,High,TRUE,Poor,Low,1.04289805,High,Unfavorable,70.36557587
+Jaipur,Tier 2,EV Car,326.4075347,3083,Students,Middle,Low,TRUE,Good,Medium,9.805387126,Medium,Unfavorable,16.08347153
+Chennai,Tier 2,Car,84.41106458,2717,Tourists,Middle,Medium,TRUE,Good,High,6.844495048,Low,Neutral,23.80984427
+Goa,Tier 2,Luxury Vehicle,394.3749483,4404,Students,Low,Low,TRUE,Good,Medium,4.071458961,Low,Unfavorable,28.10336688
+Bangalore,Tier 3,Bike Taxi,170.8792685,126,Students,High,Low,FALSE,Poor,Medium,6.737355432,High,Neutral,7.916865782
+Lucknow,Tier 2,EV Car,401.2841696,1037,Locals,Middle,Low,FALSE,Good,High,8.560814357,Low,Unfavorable,8.811772622
+Jaipur,Tier 2,Auto-Rickshaw,420.3895346,3228,Locals,Low,High,TRUE,Good,Medium,8.877684909,High,Favorable,98.53506514
+Delhi,Tier 2,EV Car,390.7807941,969,Locals,Middle,Low,FALSE,Developing,Medium,3.920966143,High,Favorable,92.78592918
+Pune,Tier 2,Auto-Rickshaw,295.9789875,755,Tourists,High,Medium,FALSE,Developing,Low,6.093053324,Low,Neutral,47.8084454
+Jaipur,Tier 3,Auto-Rickshaw,204.9192324,697,Business Travelers,High,Medium,TRUE,Developing,High,3.196537086,High,Favorable,31.94341026
+Kolkata,Tier 1,Car,239.2322668,946,Locals,Middle,High,TRUE,Good,High,1.442767276,Medium,Unfavorable,10.47262906
+Jaipur,Tier 2,Car,495.0125143,3368,Students,Middle,Low,FALSE,Poor,Low,9.057048497,Low,Favorable,91.77148528
+Kolkata,Tier 2,EV Car,222.2349456,1441,Locals,High,Low,TRUE,Developing,Low,8.856076072,Low,Neutral,44.10410498
+Pune,Tier 1,EV Car,363.1387333,4900,Business Travelers,High,Low,FALSE,Poor,High,6.177622697,Medium,Unfavorable,3.996911252
+Lucknow,Tier 3,Luxury Vehicle,175.5801813,3667,Students,High,Medium,FALSE,Poor,High,4.182467884,Low,Neutral,76.53823282
+Bangalore,Tier 1,Car,327.324339,233,Tourists,Low,High,FALSE,Developing,High,4.788047881,Low,Neutral,88.2286527
+Kolkata,Tier 2,Auto-Rickshaw,367.6879182,3399,Locals,Low,Medium,FALSE,Good,High,9.857873462,High,Neutral,75.1783669
+Mumbai,Tier 3,Auto-Rickshaw,289.3678474,1486,Locals,Middle,Low,TRUE,Poor,High,4.634182933,Medium,Favorable,89.22749926
+Pune,Tier 3,Bike Taxi,287.8121551,1489,Business Travelers,High,Low,FALSE,Poor,Medium,3.773092629,High,Neutral,19.80863457
+Jaipur,Tier 3,Auto-Rickshaw,105.6669141,3246,Business Travelers,High,Low,TRUE,Good,Low,2.3050978,Low,Neutral,15.40988363
+Kolkata,Tier 3,Car,96.15762331,1943,Business Travelers,Middle,Medium,FALSE,Developing,High,3.926824027,Low,Favorable,45.11390405
+Delhi,Tier 2,Luxury Vehicle,179.1071148,2275,Business Travelers,High,High,FALSE,Poor,Low,2.771908988,Low,Unfavorable,88.27426408
+Chennai,Tier 2,EV Car,188.7404688,4426,Tourists,Low,Low,FALSE,Good,Low,2.137745318,Low,Favorable,94.30822272
+Pune,Tier 3,Luxury Vehicle,217.9153091,3470,Business Travelers,Middle,Medium,FALSE,Poor,High,6.512269118,High,Favorable,23.86224877
+Lucknow,Tier 1,Luxury Vehicle,109.6197953,4256,Tourists,Middle,Medium,FALSE,Poor,Low,4.329114662,Medium,Unfavorable,90.35966125
+Hyderabad,Tier 2,Auto-Rickshaw,251.8936397,2099,Students,Middle,Medium,TRUE,Poor,Low,9.715759936,Medium,Neutral,79.53367981
+Delhi,Tier 1,Luxury Vehicle,290.0417555,4570,Business Travelers,Middle,Medium,FALSE,Good,Low,1.19900919,Medium,Favorable,65.01326559
+Mumbai,Tier 1,Luxury Vehicle,183.3359103,4325,Business Travelers,Middle,Medium,TRUE,Poor,High,6.354535189,Medium,Favorable,43.53346499
+Bangalore,Tier 3,Auto-Rickshaw,411.4769297,1879,Students,Middle,Low,TRUE,Developing,Low,6.993303964,Medium,Neutral,67.82056319
+Mumbai,Tier 1,Car,366.8400372,4531,Business Travelers,Middle,High,FALSE,Poor,High,4.94877048,High,Favorable,27.80880012
+Chennai,Tier 1,Auto-Rickshaw,211.263086,2817,Students,High,Low,TRUE,Developing,Low,2.319049267,Low,Neutral,64.7154061
+Bangalore,Tier 3,Car,274.6009964,2451,Locals,Low,Low,TRUE,Poor,High,1.55556878,Medium,Favorable,56.96600538
+Jaipur,Tier 2,Bike Taxi,445.6623602,2953,Business Travelers,High,High,FALSE,Poor,High,2.14339298,Low,Favorable,93.96373266
+Jaipur,Tier 3,Auto-Rickshaw,444.4633053,1665,Business Travelers,High,High,TRUE,Poor,Medium,1.590562259,High,Unfavorable,17.72932814
+Pune,Tier 3,Auto-Rickshaw,189.140648,2970,Tourists,Low,Low,TRUE,Developing,Low,3.64531961,Medium,Neutral,52.95898279
+Chennai,Tier 3,Luxury Vehicle,105.9469391,2826,Business Travelers,High,High,FALSE,Developing,High,1.179041207,Medium,Neutral,70.37466498
+Lucknow,Tier 3,Auto-Rickshaw,425.8200504,2117,Students,Low,Medium,TRUE,Good,Medium,4.239480228,Low,Neutral,15.08329976
+Jaipur,Tier 2,Bike Taxi,400.4056158,705,Students,Low,High,TRUE,Poor,High,2.028166777,Low,Unfavorable,92.25824467
+Pune,Tier 3,EV Car,56.21966639,3568,Students,Low,Low,TRUE,Good,Low,5.276289467,Low,Neutral,41.11561277
+Kolkata,Tier 2,Auto-Rickshaw,116.978467,481,Students,Low,Low,FALSE,Poor,Medium,8.141540112,High,Unfavorable,3.815761856
+Chennai,Tier 1,Auto-Rickshaw,273.2977012,4109,Locals,Middle,High,TRUE,Good,High,6.716657445,Medium,Favorable,75.75977169
+Kolkata,Tier 3,Luxury Vehicle,407.0158232,1525,Business Travelers,Low,High,FALSE,Poor,Low,7.987541234,Medium,Unfavorable,24.08240037
+Kolkata,Tier 1,Bike Taxi,400.9861365,852,Business Travelers,Middle,Low,FALSE,Developing,High,7.707080107,Low,Favorable,91.37992127
+Kolkata,Tier 2,Car,282.1711275,1753,Locals,Middle,High,FALSE,Good,Medium,8.175893727,Low,Favorable,14.044072
+Mumbai,Tier 3,Car,391.7971699,463,Tourists,Low,Medium,TRUE,Good,Medium,4.011021914,High,Favorable,35.98928029
+Mumbai,Tier 2,Car,248.7992548,2936,Business Travelers,High,High,FALSE,Good,High,9.848433018,Medium,Unfavorable,54.15610891
+Bangalore,Tier 2,Luxury Vehicle,81.29892361,4554,Locals,Middle,Low,FALSE,Developing,Low,2.111675717,Medium,Favorable,12.5423622
+Jaipur,Tier 1,Bike Taxi,400.5051129,3047,Locals,Middle,High,FALSE,Developing,Medium,8.035566045,Low,Neutral,13.50820515
+Lucknow,Tier 3,Luxury Vehicle,449.91827,2136,Students,Middle,Medium,TRUE,Good,High,6.540729104,Medium,Favorable,12.01847009
+Kolkata,Tier 2,EV Car,306.2634046,400,Business Travelers,High,High,FALSE,Poor,Medium,7.662110991,High,Favorable,47.58924822
+Mumbai,Tier 3,EV Car,379.6589216,1541,Tourists,Middle,High,TRUE,Good,Low,5.150500515,Medium,Favorable,65.31357197
+Delhi,Tier 2,Bike Taxi,401.6832695,4437,Tourists,Middle,Low,FALSE,Good,Low,7.058059649,Medium,Favorable,21.38246125
+Mumbai,Tier 3,Bike Taxi,451.2759861,3150,Business Travelers,High,Low,FALSE,Developing,Medium,8.410833424,Medium,Unfavorable,84.89581142
+Pune,Tier 3,Auto-Rickshaw,378.4816556,649,Business Travelers,Middle,Low,TRUE,Poor,Low,7.253787017,High,Favorable,89.54120674
+Jaipur,Tier 1,EV Car,81.35384336,4927,Students,Low,Medium,TRUE,Developing,Medium,5.231605138,Low,Neutral,14.86864979
+Lucknow,Tier 1,Luxury Vehicle,276.1355713,1019,Business Travelers,High,Medium,FALSE,Good,Medium,8.992980762,Low,Favorable,38.76111665
+Jaipur,Tier 3,Luxury Vehicle,90.10092228,4342,Tourists,High,High,FALSE,Developing,High,6.287579316,Medium,Neutral,98.86391381
+Lucknow,Tier 2,EV Car,210.7391494,2865,Tourists,Middle,High,TRUE,Good,Low,2.752620484,High,Favorable,62.20063132
+Lucknow,Tier 1,Bike Taxi,180.6418885,2494,Business Travelers,Middle,High,TRUE,Poor,Low,9.760156324,Low,Favorable,57.90694684
+Delhi,Tier 2,Bike Taxi,184.1618178,3617,Tourists,Low,Low,TRUE,Poor,Medium,4.580641605,Low,Unfavorable,88.20576094
+Bangalore,Tier 2,Auto-Rickshaw,162.2137024,4602,Locals,Middle,High,FALSE,Good,High,5.807682963,Medium,Unfavorable,69.49971776
+Mumbai,Tier 1,Bike Taxi,58.75138074,657,Students,High,Medium,TRUE,Developing,Medium,6.379187564,Medium,Unfavorable,56.36212026
+Chennai,Tier 3,Bike Taxi,138.9822578,3257,Tourists,Middle,High,TRUE,Good,High,5.726924101,Medium,Unfavorable,27.76207228
+Bangalore,Tier 3,EV Car,270.6743482,327,Business Travelers,Middle,High,FALSE,Poor,Medium,7.930320546,Low,Neutral,26.96843219
+Jaipur,Tier 1,Auto-Rickshaw,371.9126904,910,Locals,Low,High,TRUE,Good,Medium,6.244520577,High,Neutral,83.96277249
+Jaipur,Tier 2,EV Car,119.8519591,2308,Tourists,Low,Medium,TRUE,Good,High,3.000572239,Low,Unfavorable,44.27456814
+Kolkata,Tier 1,EV Car,441.0847901,1506,Business Travelers,Middle,High,FALSE,Developing,Medium,1.495300187,High,Unfavorable,21.91102558
+Chennai,Tier 1,Car,156.4738747,4149,Students,High,Medium,FALSE,Poor,Low,3.011403398,Low,Unfavorable,41.52516269
+Pune,Tier 3,Bike Taxi,158.970451,1453,Tourists,High,High,FALSE,Good,Medium,8.012503365,Low,Unfavorable,90.51091104
+Delhi,Tier 3,Bike Taxi,157.1657031,3226,Business Travelers,Middle,High,TRUE,Developing,Low,7.329144668,Medium,Unfavorable,50.28799072
+Bangalore,Tier 2,Auto-Rickshaw,303.7082063,1026,Locals,High,High,TRUE,Good,Low,2.379140881,Low,Unfavorable,72.6416848
+Delhi,Tier 3,Car,480.1967489,4852,Business Travelers,Low,Low,TRUE,Developing,Medium,3.161073411,High,Unfavorable,10.31454895
+Mumbai,Tier 1,Bike Taxi,420.8604047,952,Business Travelers,Low,Low,FALSE,Poor,High,7.710829685,Low,Neutral,82.50876313
+Lucknow,Tier 2,Auto-Rickshaw,396.4289654,2657,Business Travelers,Low,Low,TRUE,Good,Medium,8.548926695,Low,Unfavorable,8.367445382
+Chennai,Tier 3,Auto-Rickshaw,235.8454415,488,Business Travelers,High,High,TRUE,Good,High,8.761245903,Medium,Favorable,2.289629029
+Hyderabad,Tier 1,Auto-Rickshaw,370.8532814,3196,Locals,Low,High,FALSE,Good,High,7.445780017,High,Favorable,59.65323068
+Lucknow,Tier 3,EV Car,134.2553082,4984,Tourists,Low,High,FALSE,Developing,High,8.817197781,Medium,Unfavorable,85.83550064
+Mumbai,Tier 3,Luxury Vehicle,206.5383504,2897,Tourists,High,High,TRUE,Developing,High,2.422562909,High,Unfavorable,28.48023238
+Jaipur,Tier 2,Bike Taxi,159.080489,3471,Tourists,High,High,TRUE,Developing,High,4.233291683,Low,Unfavorable,67.99991665
+Goa,Tier 1,Car,415.1425758,4473,Students,High,High,FALSE,Developing,High,9.268334236,Medium,Neutral,71.34974288
+Chennai,Tier 2,Auto-Rickshaw,196.1094373,1847,Students,Low,Medium,FALSE,Good,Low,3.149047769,High,Favorable,73.16680379
+Goa,Tier 3,Luxury Vehicle,415.7712737,605,Tourists,Middle,High,TRUE,Poor,High,9.620243821,Low,Neutral,48.31810693
+Chennai,Tier 3,Car,117.447887,3743,Tourists,High,Medium,FALSE,Good,Low,6.30443091,Medium,Neutral,87.87494097
+Kolkata,Tier 1,Bike Taxi,113.159332,4715,Students,High,High,TRUE,Poor,High,8.863744332,High,Unfavorable,53.68297926
+Pune,Tier 1,Auto-Rickshaw,441.5677246,3958,Business Travelers,High,Medium,FALSE,Poor,Low,5.034327439,Medium,Favorable,68.75717744
+Kolkata,Tier 1,Luxury Vehicle,322.2821315,1954,Locals,High,Low,FALSE,Poor,Low,7.483696985,Low,Unfavorable,44.22290537
+Chennai,Tier 1,EV Car,324.2632785,4335,Students,Low,Low,FALSE,Developing,Low,7.246149081,High,Favorable,67.7273781
+Chennai,Tier 3,Car,187.9821815,3799,Locals,High,Medium,TRUE,Poor,Medium,6.60052741,Low,Favorable,12.37888555
+Lucknow,Tier 1,Luxury Vehicle,147.2669736,813,Students,Middle,High,FALSE,Good,High,9.489217953,Medium,Favorable,77.7053939
+Goa,Tier 3,EV Car,183.0127952,2075,Students,High,Low,TRUE,Good,Medium,9.602620471,Low,Neutral,95.87339535
+Goa,Tier 1,EV Car,222.5601689,4332,Tourists,Middle,Low,TRUE,Good,High,4.018786925,Low,Favorable,99.02629264
+Chennai,Tier 3,Bike Taxi,322.1864302,4772,Students,High,High,FALSE,Poor,High,8.029726147,Low,Neutral,67.85271773
+Pune,Tier 3,Bike Taxi,369.5948469,207,Students,Middle,Low,TRUE,Poor,Low,7.127944042,Medium,Favorable,94.00230986
+Pune,Tier 3,Auto-Rickshaw,250.0551177,3755,Business Travelers,High,High,FALSE,Developing,Low,6.204144979,Medium,Neutral,72.38394046
+Lucknow,Tier 3,EV Car,411.7848754,2801,Tourists,High,High,TRUE,Good,Medium,4.916471258,Medium,Favorable,27.38295058
+Bangalore,Tier 1,Bike Taxi,137.8951616,3242,Locals,Low,High,TRUE,Developing,High,5.472585285,Low,Neutral,26.13735984
+Kolkata,Tier 3,Car,197.0842564,1038,Students,High,High,TRUE,Developing,Low,8.391048903,Medium,Neutral,70.6634727
+Lucknow,Tier 1,EV Car,402.7705977,4113,Locals,High,Medium,FALSE,Developing,Low,8.554557854,Medium,Neutral,39.57339475
+Pune,Tier 2,EV Car,387.6186721,3053,Students,High,Low,FALSE,Good,High,1.989418814,Medium,Neutral,99.92576732
+Lucknow,Tier 2,EV Car,98.74621475,4943,Business Travelers,High,High,TRUE,Developing,High,1.500907104,Low,Unfavorable,7.99800142
+Delhi,Tier 3,EV Car,448.5804127,392,Tourists,Low,Medium,FALSE,Poor,Medium,5.172827762,High,Unfavorable,92.65799085
+Mumbai,Tier 3,Car,111.0546657,3361,Locals,High,Medium,FALSE,Good,Medium,7.796240542,High,Unfavorable,40.45820535
+Jaipur,Tier 3,Car,176.0844213,1246,Students,Low,Medium,FALSE,Poor,Medium,2.944983849,Low,Favorable,2.632255547
+Pune,Tier 3,EV Car,300.7233576,1349,Students,Low,Low,TRUE,Good,Medium,7.577075766,Medium,Unfavorable,26.83215073
+Jaipur,Tier 1,EV Car,361.0828007,2694,Locals,Low,High,TRUE,Poor,Low,7.013421931,Medium,Neutral,26.71446471
+Goa,Tier 2,Car,104.9889544,4937,Business Travelers,Low,Medium,FALSE,Poor,High,4.55754212,Medium,Unfavorable,26.4100928
+Bangalore,Tier 1,Bike Taxi,78.81129496,4878,Business Travelers,Low,Medium,TRUE,Good,High,9.110248513,Low,Unfavorable,20.51318409
+Bangalore,Tier 2,Luxury Vehicle,308.120092,2606,Business Travelers,Middle,High,FALSE,Poor,High,4.19914447,High,Neutral,25.04700703
+Bangalore,Tier 3,Bike Taxi,286.270855,1248,Tourists,Middle,Low,TRUE,Poor,Low,9.046142832,High,Favorable,57.68356896
+Jaipur,Tier 2,EV Car,339.3830373,3821,Business Travelers,Middle,Low,FALSE,Poor,Low,3.905645699,High,Neutral,27.38838313
+Kolkata,Tier 2,Auto-Rickshaw,59.48278692,1473,Tourists,Low,Medium,FALSE,Developing,Low,5.972902077,High,Favorable,41.90844366
+Delhi,Tier 2,EV Car,72.9884548,2925,Locals,High,Medium,TRUE,Poor,Medium,5.797983043,High,Unfavorable,77.48731269
+Lucknow,Tier 3,Car,400.8143491,4360,Students,High,High,TRUE,Good,High,3.417929301,Low,Favorable,22.54054611
+Lucknow,Tier 3,Car,439.0964811,1987,Locals,Middle,Low,TRUE,Poor,High,9.096834184,Low,Neutral,48.88801602
+Delhi,Tier 1,Auto-Rickshaw,130.5597471,4477,Locals,High,Low,TRUE,Good,Low,5.91943242,Low,Favorable,18.25619801
+Pune,Tier 1,EV Car,81.62455344,1938,Students,High,Low,TRUE,Good,Low,2.162428884,Medium,Favorable,45.62264081
+Bangalore,Tier 2,Bike Taxi,279.3790467,2807,Locals,High,Medium,FALSE,Good,High,8.123107764,High,Neutral,31.79798208
+Kolkata,Tier 3,Bike Taxi,65.12154373,4202,Locals,Low,Medium,FALSE,Poor,High,7.029519515,High,Favorable,14.56641415
+Chennai,Tier 1,Bike Taxi,181.7079268,4677,Tourists,Low,Medium,FALSE,Poor,Low,2.755113076,Low,Favorable,14.69880737
+Lucknow,Tier 2,Car,193.6286899,2044,Business Travelers,Low,Low,TRUE,Developing,High,2.289137109,Medium,Unfavorable,31.47649066
+Jaipur,Tier 1,Car,276.009713,1775,Tourists,High,Medium,TRUE,Poor,Medium,6.422432851,Low,Unfavorable,12.5554535
+Goa,Tier 3,Bike Taxi,277.1971267,1168,Business Travelers,High,Medium,FALSE,Developing,Low,4.214527025,Medium,Favorable,91.37224558
+Bangalore,Tier 1,EV Car,467.4547908,2036,Students,Low,Low,FALSE,Developing,Low,9.319309077,Medium,Neutral,56.01256343
+Delhi,Tier 1,Bike Taxi,133.0926934,2457,Tourists,High,Medium,FALSE,Developing,Medium,8.300802092,Medium,Unfavorable,99.27471391
+Lucknow,Tier 2,EV Car,125.1081297,2481,Locals,Middle,Medium,FALSE,Developing,Low,1.650456081,Medium,Unfavorable,14.9182234
+Lucknow,Tier 2,Auto-Rickshaw,157.6088897,354,Business Travelers,Low,High,TRUE,Poor,High,6.352584829,Low,Favorable,1.305366892
+Chennai,Tier 2,Luxury Vehicle,263.9372491,3897,Tourists,High,Medium,TRUE,Poor,Low,8.74111861,High,Neutral,75.81883082
+Delhi,Tier 1,EV Car,175.4450448,2248,Business Travelers,Middle,Medium,FALSE,Poor,Low,3.305097442,Low,Favorable,67.45415854
+Hyderabad,Tier 3,Auto-Rickshaw,393.3779075,1554,Students,High,Medium,TRUE,Developing,Low,5.547634198,High,Unfavorable,77.18843028
+Delhi,Tier 3,Car,312.4934626,1295,Locals,Low,High,TRUE,Developing,High,4.45520625,High,Unfavorable,17.23450373
+Jaipur,Tier 2,Bike Taxi,222.7985533,2199,Locals,Low,Low,TRUE,Developing,Medium,9.984630336,High,Neutral,67.38437977
+Lucknow,Tier 1,EV Car,352.5102479,224,Business Travelers,Low,Low,TRUE,Poor,High,1.031099871,Medium,Unfavorable,84.39732147
+Bangalore,Tier 1,Car,92.34243248,2303,Students,Middle,Low,TRUE,Poor,Low,5.950163399,High,Favorable,86.80765864
+Bangalore,Tier 1,Car,333.7666838,507,Locals,Low,High,TRUE,Poor,Low,2.403527245,High,Unfavorable,2.158246233
+Hyderabad,Tier 2,Bike Taxi,227.8772097,4573,Business Travelers,Middle,High,TRUE,Good,Medium,1.311317578,High,Unfavorable,46.95111587
+Delhi,Tier 2,Auto-Rickshaw,419.3416609,2634,Business Travelers,Middle,Medium,FALSE,Poor,High,8.917690238,Low,Neutral,24.00599369
+Chennai,Tier 2,Bike Taxi,61.84119732,3282,Students,High,High,TRUE,Good,High,2.716980819,High,Unfavorable,81.0505083
